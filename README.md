@@ -40,6 +40,12 @@ When accessing Thomas High School ninth grade math and reading scores, it has a 
 ![THS_Summary10th12thlGrades](Resources/THS_Summary10th12thlGrades.png)
 ![THS_SummaryAllGrades](Resources/THS_SummaryAllGrades.png)
 
+### Overal Summary of Impact of Thomas High School analysis with removal of 9th grade scores
+The overall impact to the District Analysis and School Analysis with the removal of Thomas High School 9th grade from the entire data set is minimal.  With 39,170 students in the district, the removal of the Thomas High School 9th grade population, which is only 461 students, from the data set has a minimal impact.  Infact, using standard formatting of extending the accuracy of the output to either zero or one significant digit yielded no change at all.  The formatting had to be extended to two significant digits before yielding and diferenece at all.  Below are two screen shots that show comparison of data sets with standard formatting as recommended through the exercise and then with the extension of accuracy to two significant digits.
+
+![FormattedSpending](Resources/FormattedSpending.png)
+![UnformattedSpending](Resources/UnformattedSpending.png)
+
 ### Analysis of School Spending
 
 ### Anaylsis of School Size
