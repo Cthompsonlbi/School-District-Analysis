@@ -13,7 +13,7 @@ During the analysis of the schools in the district and their performance on stan
 
 The district analysis was orginally completed without bias including all scores from all schools taken calculated in the analysis.  However, because of academic disnhonesty as it relates to the 9th grade scores at Thomas High School, the analysis was run two additional times.  Once, to return results based on score removal for Thomas High School ninth grade but, maintaining the Thomas High School population intact. Then once again focusing only on the 10th, 11th, and 12th grade population of Thomas High School.  The resulting summary can be found below.
 
-### Code Modifications Made
+### Code Modifications Made to account for the removal of Thomas High School's 9th grade scores and calculation using only 10th through 12th grade.
 
 Setting Thomas High School 9th grade scores to NaN
 
