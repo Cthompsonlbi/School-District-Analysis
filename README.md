@@ -17,7 +17,7 @@ The district analysis was orginally completed without bias including all scores 
 
 Setting Thomas High School 9th grade scores to NaN
 
-![ninthstudentcodeNan](ninthstudentcodeNans.png)
+![ninthstudentcodeNan](ninthstudentcodeNan.png)
 ![nineNanScreen](Resources/nineNanScreen.png)
 
 Removing Thomas High School 9th grade from the data set and only include Thomas High School grades tenth, eleventh, and twelfth for revised calculations.
