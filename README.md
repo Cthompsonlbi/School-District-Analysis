@@ -82,7 +82,7 @@ When doing an analysis on school size and its impact on test performance, the fo
 
 This analysis was also seperated out by reading and math scores performance when compared to school types. The two types of schools that were analyzed were Charter and District schools.  Looking at the snippet below, one could interpret the results as Charter schools tend to outperform District Schools in each category.  Charter schools performed better than District schools when it came to Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing.
 
-![schooltype](Resources/schooltype.png)
+![schooltype](Resources/schooltype.PNG)
 
 ### Suumary
 
