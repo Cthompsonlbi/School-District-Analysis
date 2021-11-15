@@ -15,12 +15,15 @@ The district analysis was orginally completed without bias including all scores 
 
 ### Code Modifications Made to account for the removal of Thomas High School's 9th grade scores and calculation using only 10th through 12th grade.
 
-Setting Thomas High School 9th grade scores to NaN
+* Setting Thomas High School 9th grade scores to NaN
 
 ![ninthstudentcodeNan](Resources/ninthstudentcodeNan.PNG)
+
+*Snippet Showing Thomas High School ninth grade scores changed to NaN
+
 ![nineNanScreen](Resources/nineNanScreen.PNG)
 
-Removing Thomas High School 9th grade from the data set and only include Thomas High School grades tenth, eleventh, and twelfth for revised calculations.
+*Removing Thomas High School 9th grade from the data set and only include Thomas High School grades tenth, eleventh, and twelfth for revised calculations.
 
 ![10th12thcode](Resources/10th12thcode.PNG)
 
@@ -94,3 +97,4 @@ After Assigning NaNs to the 9th grade population at Thomas High School the Distr
 * The % Overall Passing dropped by .3% from 65.2% to 64.9% after assigning Thomas High School ninth grade scores to NaN
 * Special note, analysis noted above was pulled from reports that was set to one significant digit.
  
+Unfortunately due to academic dishonesty, we do not have a complete data set to properly evaluate all students, at all grade levels, at all schools. Although the student population removed was only 461 of 39,170 students.  This removal of data could impact decisions about where resources should be distributed and potentially cause further harm to the school(s) that could ultimately be impacted.
