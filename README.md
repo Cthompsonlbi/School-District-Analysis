@@ -66,7 +66,7 @@ The remainder of this report will be analyzing the the district performance when
 ### Analysis of School Spending
 After dividing the per capita spend into four brackets, one could make the determination that the amount of money spent per student does not necessarily yield better performance when it comes to student scores. In fact, in cases where the per capita spent was less that $584 dollars, the schools actually performed better that those schools that spent more per student on every category.  On the other end of the spectrum, schools that spent the most on a per capita basis actually performed worse than those that spent less on each category.  See screen snippet below:
 
-![schoolspend](Resources/schoolspend.png)
+![schoolspend](Resources/schoolspend.PNG)
 
 ### Anaylsis of School Size
 
@@ -76,7 +76,7 @@ When doing an analysis on school size and its impact on test performance, the fo
 * Schools with more that 2000 students trailed the schools with smaller population sizes in every metric listed.
 * Please see image below for reference.
 
-![schoolsize](Resources/schoolsize.png)
+![schoolsize](Resources/schoolsize.PNG)
 
 ### Anaylsis of School Type
 
