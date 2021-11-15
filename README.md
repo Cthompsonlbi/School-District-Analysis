@@ -14,8 +14,18 @@ During the analysis of the schools in the district and their performance on stan
 The district analysis was orginally completed without bias including all scores from all schools taken calculated in the analysis.  However, because of academic disnhonesty as it relates to the 9th grade scores at Thomas High School, the analysis was run two additional times.  Once, to return results based on score removal for Thomas High School ninth grade but, maintaining the Thomas High School population intact. Then once again focusing only on the 10th, 11th, and 12th grade population of Thomas High School.  The resulting summary can be found below.
 
 ### Analysis of District Summary
-![ReadCSVfile](Resources/ReadCSVfile.png)
-![ReadCSVfile](Resources/ReadCSVfile.png)
+
+Upon running the District Analysis between data sets that include all students scores and scores that did not include math and reading scores for ninth graders at Thomas High School, the following can be observed:
+
+* The Average Math Score dropped by .1% for the district when Thomas High School ninth graders scores were not calculated.
+* The % Passing Math dropped by .2% for the district when Thomas High School ninth graders scores were not calculated.
+* The % Passing Reading dropped by .1% for the district when Thomas High School ninth graders scores were not calculated.
+* The % Overall Passing dropped by .3% for the district when Thomas High School ninth graders scores were not calculated.
+* Special Note: To be consistent with formattng, the original full data output was re-formatted to include to the tenth decimal place.
+* Please see images below for full District Analysi between full data set and data set where Thomas High School scores were not calculated.
+ 
+![DistrictSumAllSchools](Resources/DistrictSumAllSchools.png)
+![DistrictSumNaN9thTHS](Resources/DistrictSumNaN9thTHS.png)
 
 Upon Analysis of the election analysis requirements, there are multiple opportunities for improvement that could automate the process of the election analysis and provide powerful data and reporting.  The Election Results report must output the following: 
 
