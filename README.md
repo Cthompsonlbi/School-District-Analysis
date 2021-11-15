@@ -22,19 +22,24 @@ Upon running the District Analysis between data sets that include all students s
 * The % Passing Reading dropped by .1% for the district when Thomas High School ninth graders scores were not calculated.
 * The % Overall Passing dropped by .3% for the district when Thomas High School ninth graders scores were not calculated.
 * Special Note: To be consistent with formattng, the original full data output was re-formatted to include to the tenth decimal place.
-* Please see images below for full District Analysi between full data set and data set where Thomas High School scores were not calculated.
+* Please see images below for full District Analysis between full data set and data set where Thomas High School scores were not calculated.
  
 ![DistrictSumAllSchools](Resources/DistrictSumAllSchools.png)
 ![DistrictSumNaN9thTHS](Resources/DistrictSumNaN9thTHS.png)
 
-Upon Analysis of the election analysis requirements, there are multiple opportunities for improvement that could automate the process of the election analysis and provide powerful data and reporting.  The Election Results report must output the following: 
 
-*  Total Votes
-*  County voting results displaying the county, quantity of votes for each county and percentage of votes for each county. 
-*  The county with the largest voting turnout.
-*  The candidate's names, quantity of votes received and percentage of votes received per candidate.
-*  Declaration of the winner which provides winning candidates name, quantity of votes, and winning percentages.
-*  Provide a report of above results in a command line format and .txt format.
+### Analysis of School Summary
+
+When accessing Thomas High School ninth grade math and reading scores, it has a big impact on Thomas High Schools % Overall Passing data point by dropping it to 65.1%.  This is understandable as the scores were removed but the calculations were done on the entire student body.  However when the analysis was redone but, only taking into consideration Thomas High Schools 10th, 11th, and 12th grade students scores and the respective student population, that changes were minimal when compared to the entire district.
+ 
+ * % Overall Passing for Thomas High School students, excluding 9th grade was 90.63% when compared to the 90.95% average when the analysis was run including the suspect 9th grade data. While the district's % Overall Passing score was 65.2%
+ * % Passing Reading showed a decline of .29% for Thomas High School students when the suspect ninth grade scores were removed when compared to the original data set.  
+ * Average Math Scores and % Pass Math each showed less than .1% decline for the 9th grade excluded data set compared to the original data set.
+ * Average Reading Scores showed less that .1% improvement for the 9th grade excluded data set compared to the orginal data set.
+ * Please see a scaled down school summary below
+
+![DistrictSumAllSchools](Resources/DistrictSumAllSchools.png)
+![DistrictSumNaN9thTHS](Resources/DistrictSumNaN9thTHS.png)
 
 ### Analysis of School Spending
 
