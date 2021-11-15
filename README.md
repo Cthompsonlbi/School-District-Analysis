@@ -24,8 +24,8 @@ Upon running the District Analysis between data sets that include all students s
 * Special Note: To be consistent with formattng, the original full data output was re-formatted to include to the tenth decimal place.
 * Please see images below for full District Analysis between full data set and data set where Thomas High School scores were not calculated.
  
-![DistrictSumAllSchools](Resources/DistrictSumAllSchools.png)
-![DistrictSumNaN9thTHS](Resources/DistrictSumNaN9thTHS.png)
+![THS_Summary10th12thlGrades](Resources/THS_Summary10th12thlGrades.png)
+![THS_SummaryAllGrades](Resources/THS_SummaryAllGrades.png)
 
 
 ### Analysis of School Summary
